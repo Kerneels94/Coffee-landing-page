@@ -1,0 +1,11 @@
+{
+  "name": "coffee-landing-page",
+  "version": "1.0.0",
+  "description": "1 Html\r 2 Css\r 3 Javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
