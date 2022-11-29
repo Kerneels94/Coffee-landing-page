@@ -1,0 +1,22 @@
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+#icons {
+  font-size: 24px;
+}
+
+#links:hover {
+  color: lightblue;
+}
+
+#btn:hover {
+  background-color: #fff;
+  color: #262626;
+}
+
+#news {
+  opacity: 0.6;
+}
